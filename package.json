@@ -1,0 +1,26 @@
+{
+  "name": "telegramurl",
+  "version": "1.0.0",
+  "description": "URL replacement service for Telegram links",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaslg26/telegramURL.git"
+  },
+  "keywords": [
+    "telegra",
+    "url",
+    "whatsapp",
+    "block",
+    "censorship"
+  ],
+  "author": "Lucas Vasconcelos <lucaslg26@yahoo.com.br> (cpux.me)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lucaslg26/telegramURL/issues"
+  },
+  "homepage": "https://github.com/lucaslg26/telegramURL#readme"
+}
