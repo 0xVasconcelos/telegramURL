@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/lucaslg26/telegramURL/issues"
   },
-  "homepage": "https://github.com/lucaslg26/telegramURL#readme"
+  "homepage": "https://github.com/lucaslg26/telegramURL#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
